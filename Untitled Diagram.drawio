@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-01-08T18:13:20.725Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="RimMwMFSsjL_VnVuRlQU" version="14.1.8" type="github">
-  <diagram id="xPHTDoWD5RQRcpjtNL1s" name="User Flow: Register for webinar">
+<mxfile host="app.diagrams.net" modified="2021-01-08T18:25:19.505Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="m_e8bwfC8FtVRGuUBYwV" version="14.1.8" type="github" pages="2">
+  <diagram id="xPHTDoWD5RQRcpjtNL1s" name="User Flow: Register for a course">
     <mxGraphModel dx="1577" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -65,6 +65,77 @@
           <mxGeometry x="516" y="450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xnWmR-Z47O8tbKrrqcVm-44" value="Leave the Website" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="516" y="674.5" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of User Flow: Register for webinar" id="_C2A6eRYeS3BnPcMSG0V">
+    <mxGraphModel dx="946" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="iA8VyBwAfBY-zT3LYvLD-0" />
+        <mxCell id="iA8VyBwAfBY-zT3LYvLD-1" parent="iA8VyBwAfBY-zT3LYvLD-0" />
+        <mxCell id="iA8VyBwAfBY-zT3LYvLD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iA8VyBwAfBY-zT3LYvLD-1" source="iA8VyBwAfBY-zT3LYvLD-3" target="iA8VyBwAfBY-zT3LYvLD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iA8VyBwAfBY-zT3LYvLD-3" value="Go to the Website" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="iA8VyBwAfBY-zT3LYvLD-1">
+          <mxGeometry x="330" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iA8VyBwAfBY-zT3LYvLD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iA8VyBwAfBY-zT3LYvLD-1" source="iA8VyBwAfBY-zT3LYvLD-5" target="iA8VyBwAfBY-zT3LYvLD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iA8VyBwAfBY-zT3LYvLD-5" value="Search a speciality" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="iA8VyBwAfBY-zT3LYvLD-1">
+          <mxGeometry x="330" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iA8VyBwAfBY-zT3LYvLD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iA8VyBwAfBY-zT3LYvLD-1" source="iA8VyBwAfBY-zT3LYvLD-8" target="iA8VyBwAfBY-zT3LYvLD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iA8VyBwAfBY-zT3LYvLD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=32;" edge="1" parent="iA8VyBwAfBY-zT3LYvLD-1" source="iA8VyBwAfBY-zT3LYvLD-8" target="iA8VyBwAfBY-zT3LYvLD-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="586" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iA8VyBwAfBY-zT3LYvLD-8" value="Found" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="iA8VyBwAfBY-zT3LYvLD-1">
+          <mxGeometry x="340" y="440" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iA8VyBwAfBY-zT3LYvLD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iA8VyBwAfBY-zT3LYvLD-1" source="iA8VyBwAfBY-zT3LYvLD-10" target="iA8VyBwAfBY-zT3LYvLD-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iA8VyBwAfBY-zT3LYvLD-10" value="Search a course" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="iA8VyBwAfBY-zT3LYvLD-1">
+          <mxGeometry x="330" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iA8VyBwAfBY-zT3LYvLD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iA8VyBwAfBY-zT3LYvLD-1" source="iA8VyBwAfBY-zT3LYvLD-13" target="iA8VyBwAfBY-zT3LYvLD-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iA8VyBwAfBY-zT3LYvLD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=32;" edge="1" parent="iA8VyBwAfBY-zT3LYvLD-1" source="iA8VyBwAfBY-zT3LYvLD-13" target="iA8VyBwAfBY-zT3LYvLD-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iA8VyBwAfBY-zT3LYvLD-13" value="Found" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="iA8VyBwAfBY-zT3LYvLD-1">
+          <mxGeometry x="340" y="664.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iA8VyBwAfBY-zT3LYvLD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iA8VyBwAfBY-zT3LYvLD-1" source="iA8VyBwAfBY-zT3LYvLD-15" target="iA8VyBwAfBY-zT3LYvLD-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iA8VyBwAfBY-zT3LYvLD-15" value="Register" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="iA8VyBwAfBY-zT3LYvLD-1">
+          <mxGeometry x="330" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iA8VyBwAfBY-zT3LYvLD-16" value="Leave the Website" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="iA8VyBwAfBY-zT3LYvLD-1">
+          <mxGeometry x="330" y="910" width="120" height="80" as="geometry" />
+        </mxCell>
+        <object label="&lt;em style=&quot;margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; vertical-align: top ; color: rgb(13 , 13 , 13) ; font-family: &amp;#34;pt sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 32px&quot;&gt;%page%&lt;br style=&quot;font-size: 32px&quot;&gt;&lt;/em&gt;" placeholders="1" id="iA8VyBwAfBY-zT3LYvLD-17">
+          <mxCell style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;labelBackgroundColor=none;" vertex="1" parent="iA8VyBwAfBY-zT3LYvLD-1">
+            <mxGeometry width="827" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;em style=&quot;margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; font-family: &amp;quot;pt sans&amp;quot;, arial, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: 14px; font-style: normal; text-align: left;&quot;&gt;%date{&lt;/span&gt;&lt;span style=&quot;font-family: helvetica; font-size: 14px; font-style: normal; text-align: left;&quot;&gt;ddd dd-mm-yyyy HH:MM Z&lt;/span&gt;&lt;span style=&quot;font-size: 14px; font-style: normal; text-align: left;&quot;&gt;}%&lt;/span&gt;&lt;/em&gt;" placeholders="1" id="iA8VyBwAfBY-zT3LYvLD-18">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iA8VyBwAfBY-zT3LYvLD-1">
+            <mxGeometry x="269" y="60" width="290" height="20" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="iA8VyBwAfBY-zT3LYvLD-19" value="Leave the Website" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="iA8VyBwAfBY-zT3LYvLD-1">
+          <mxGeometry x="516" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iA8VyBwAfBY-zT3LYvLD-20" value="Leave the Website" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="iA8VyBwAfBY-zT3LYvLD-1">
           <mxGeometry x="516" y="674.5" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
