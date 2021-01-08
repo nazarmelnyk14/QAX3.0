@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-08T18:25:19.505Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="m_e8bwfC8FtVRGuUBYwV" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-08T20:10:41.404Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="dRwmP8-_ithCxY66CDRC" version="14.1.8" type="github" pages="2">
   <diagram id="xPHTDoWD5RQRcpjtNL1s" name="User Flow: Register for a course">
-    <mxGraphModel dx="1577" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,8 +70,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of User Flow: Register for webinar" id="_C2A6eRYeS3BnPcMSG0V">
-    <mxGraphModel dx="946" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="User Task: Search " id="_C2A6eRYeS3BnPcMSG0V">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="iA8VyBwAfBY-zT3LYvLD-0" />
         <mxCell id="iA8VyBwAfBY-zT3LYvLD-1" parent="iA8VyBwAfBY-zT3LYvLD-0" />
